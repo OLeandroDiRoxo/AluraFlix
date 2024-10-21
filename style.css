@@ -1,5 +1,20 @@
-body{
-    color:white;
+body {
+    color: white;
     background: black;
+    margin: 0px
+}
+
+header {
+    border-bottom: solid 3px whitesmoke;
+    padding: 20px;
+font-size:35px;
+}
+
+section{
+
+background:rgb(100, 35, 10);
+
+
 
 }
+
